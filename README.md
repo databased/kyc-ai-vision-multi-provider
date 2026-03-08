@@ -1,5 +1,7 @@
 # KYC Vision Multi-Provider Document Processor
 
+![CI](https://github.com/databased/kyc-ai-vision-multi-provider/actions/workflows/ci.yml/badge.svg)
+
 AI-powered identity document processor that extracts structured KYC (Know Your Customer) data from passport, driver license, and national ID images using vision-capable LLMs across seven interchangeable providers.
 
 ## Features
